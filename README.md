@@ -14,4 +14,4 @@ Práctica inicial donde se explica la instalación de las herramientas y tecnolo
 
 [Página de usuario](http://adcalzadilla.github.io/ "mi página personal")
 
-[Página de la práctica inicial](http://adcalzadilla.github.io/tareas-iniciales-AdCalzadilla/)
+[Página de la práctica inicial](http://ull-esit-gradoii-pl.github.io/tareas-iniciales-AdCalzadilla/)
